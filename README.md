@@ -1,2 +1,2 @@
-# tst-dim
+# tst-dim code
 dim code
