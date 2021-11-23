@@ -1,0 +1,2 @@
+# tst-dim
+dim code
